@@ -10,7 +10,7 @@ public class TaskTest {
     @BeforeEach
     public void setUp() {
         task = new Task(1, "Sample Task");
-        System.out.println("Hi");
+        System.out.println("Hi1");
     }
 
     @Test
